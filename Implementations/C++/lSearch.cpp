@@ -22,6 +22,6 @@ int main()
 	answer = lSearch(A,n,x);
 	if(answer!=0) { cout<<"Answer found in index "<<answer; }
 	else {cout<<"NOT FOUND";}
-	
+	cout<<endl;
 	return 0;
 }

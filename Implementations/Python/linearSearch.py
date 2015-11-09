@@ -1,6 +1,6 @@
 #An implementation of Linear Search algorithm as described in Algorithms Unlocked
 #Author: Surya Prakash
-
+#This algorithms returns the last found element which matches the element that we are searching for
 def lSearch(A,n,x):
 	answer = "NOT FOUND"
 	for i in range(n):
